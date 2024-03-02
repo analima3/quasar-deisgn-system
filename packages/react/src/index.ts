@@ -1,3 +1,3 @@
-import { colors } from "@quasar/tokens";
+import { colors } from "@quasar-ui/tokens";
 
 console.log(colors);

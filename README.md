@@ -2,9 +2,9 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pjaTZyeHU0em0wYW9mcXZidzR0eHVmcmE5eTdtM2RrbzI4emFjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icDJYd8Zrcqa89tqHf/giphy-downsized-large.gif" alt="quasar gif" style="border-radius: 10px; width: 100%; height: 320px;">
 </div>
 
-# Quasar Design System
+# Quasar-ui
 
-Welcome to Quasar, our comprehensive design system that ensures consistency and innovation throughout our user interface. Explore the guidelines and resources necessary for crafting exceptional visual and functional experiences.
+Welcome to Quasar-ui, our comprehensive design system that ensures consistency and innovation throughout our user interface. Explore the guidelines and resources necessary for crafting exceptional visual and functional experiences.
 
 ## Table of Contents
 
@@ -17,19 +17,19 @@ Welcome to Quasar, our comprehensive design system that ensures consistency and 
 
 ## 1. Overview
 
-Quasar is a distinctive approach to creating intuitive and visually appealing interfaces, aiming to unify the user experience across all our products.
+Quasar-ui is a distinctive approach to creating intuitive and visually appealing interfaces, aiming to unify the user experience across all our products.
 
 ## 2. Design Fundamentals
 
-Discover the design principles that underpin Quasar, including consistency, simplicity, and accessibility.
+Discover the design principles that underpin Quasar-ui, including consistency, simplicity, and accessibility.
 
 ## 3. Components
 
-Explore the Quasar component library, ranging from simple buttons to more complex components. Refer to detailed documentation for each component for effective implementation.
+Explore the Quasar-ui component library, ranging from simple buttons to more complex components. Refer to detailed documentation for each component for effective implementation.
 
 ## 4. Colors and Typography
 
-Familiarize yourself with Quasar's unique color palette and typography guidelines to ensure a cohesive visual presentation.
+Familiarize yourself with Quasar-ui's unique color palette and typography guidelines to ensure a cohesive visual presentation.
 
 ## 5. Navigation Guidelines
 
@@ -37,8 +37,8 @@ Understand best practices for creating efficient and user-friendly navigation fl
 
 ## 6. How to Contribute
 
-Contribute to the continuous improvement of Quasar. Learn how to report issues, suggest enhancements, or contribute directly to the source code.
+Contribute to the continuous improvement of Quasar-ui. Learn how to report issues, suggest enhancements, or contribute directly to the source code.
 
 ---
 
-Thank you for choosing Quasar for your project! Together, we can create exceptional experiences for our users.
+Thank you for choosing Quasar-ui for your project! Together, we can create exceptional experiences for our users.

@@ -1,5 +1,5 @@
 {
-  "name": "@quasar/ts-config",
+  "name": "@quasar-ui/ts-config",
   "version": "1.0.0",
   "license": "MIT",
   "private": true

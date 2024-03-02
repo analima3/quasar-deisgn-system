@@ -1,5 +1,5 @@
 {
-  "name": "@quasar/react",
+  "name": "@quasar-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@quasar/tokens": "*",
-    "@quasar/ts-config": "*",
-    "@quasar/eslint-config": "*",
+    "@quasar-ui/eslint-config": "*",
+    "@quasar-ui/tokens": "*",
+    "@quasar-ui/ts-config": "*",
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
   }

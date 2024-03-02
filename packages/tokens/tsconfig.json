@@ -1,4 +1,4 @@
 {
-  "extends": "@quasar/ts-config/base.json",
+  "extends": "@quasar-ui/ts-config/base.json",
   "include": ["src"]
 }
