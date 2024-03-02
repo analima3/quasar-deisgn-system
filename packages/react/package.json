@@ -1,5 +1,5 @@
 {
-  "name": "@quasar/tokens",
+  "name": "@quasar/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -9,9 +9,11 @@
     "build": "tsup src/index.ts --format esm,cjs --dts",
     "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@quasar/tokens": "*",
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
   }
