@@ -10,8 +10,9 @@
     "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
+    "@quasar/ts-config": "*",
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
   }
