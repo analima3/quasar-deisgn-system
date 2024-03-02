@@ -1,4 +1,6 @@
-<img src="https://github.com/analima3/quasar-deisgn-system/assets/21371045/54fe43d5-d141-4695-b684-86557a9e62a9" alt="Descrição da Imagem" style="border-radius: 10px; width: 100%; height: 320px;">
+<div style="padding: 16px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pjaTZyeHU0em0wYW9mcXZidzR0eHVmcmE5eTdtM2RrbzI4emFjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icDJYd8Zrcqa89tqHf/giphy-downsized-large.gif" alt="quasar gif" style="border-radius: 10px; width: 100%; height: 320px;">
+</div>
 
 # Quasar Design System
 
