@@ -1,17 +1,14 @@
 {
   "name": "@quasar-ui/react",
   "version": "1.0.0",
-  "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "build": "tsup src/index.tsx --format esm,cjs --external react --dts",
-    "dev": "tsup src/index.tsx --format esm,cjs --external react --dts --watch",
-    "lint": "eslint src/**/*.ts* --fix"
+    "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
+    "dev": "tsup src/index.tsx --format esm,cjs --dts --external react --watch",
+    "lint": "eslint src/**/*.{ts,tsx} --fix"
   },
-  "keywords": [],
-  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@quasar-ui/eslint-config": "*",

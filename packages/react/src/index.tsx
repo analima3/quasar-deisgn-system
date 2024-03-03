@@ -1,9 +1,9 @@
-import { styled } from "@stitches/react";
+import { styled } from './styles'
 
-const Button = styled("button", {
-  backgroundColor: "red",
-});
-
-export function App() {
-  return <h1>Hello World</h1>;
-}
+export const Button = styled('button', {
+  backgroundColor: '$pink900',
+  width: '$40',
+  height: '$10',
+  border: 0,
+  borderRadius: '$md',
+})

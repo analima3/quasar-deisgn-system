@@ -2,12 +2,12 @@ import {
   colors,
   fontSizes,
   fontWeights,
-  fonts,
   lineHeights,
-  raddi,
+  radii,
   space,
-} from "@quasar-ui/tokens";
-import { createStitches, defaultThemeMap } from "@stitches/react";
+  fonts,
+} from '@quasar-ui/tokens'
+import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {
   styled,
@@ -21,16 +21,16 @@ export const {
 } = createStitches({
   themeMap: {
     ...defaultThemeMap,
-    height: "space",
-    width: "space",
+    height: 'space',
+    width: 'space',
   },
   theme: {
     colors,
     space,
-    raddi,
+    radii,
     fontSizes,
     fontWeights,
     lineHeights,
     fonts,
   },
-});
+})
