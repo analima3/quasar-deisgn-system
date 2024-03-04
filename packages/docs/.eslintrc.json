@@ -1,0 +1,3 @@
+{
+    "extends": "@quasar-ui/eslint-config"
+}
