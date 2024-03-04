@@ -4,6 +4,8 @@ Thumbs.db
 node_modules/
 build/
 dist/
+storybook-static/
+.turbo
 
 *.log
 *.gz
