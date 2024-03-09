@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Box, BoxProps } from '@quasar-ui/react'
+import { Box, BoxProps, Text } from '@quasar-ui/react'
 
 export default {
   title: 'Surfaces/Box',
@@ -7,7 +7,7 @@ export default {
   args: {
     children: (
       <>
-        <p>Elemento box</p>
+        <Text>Element box</Text>
       </>
     ),
   },
