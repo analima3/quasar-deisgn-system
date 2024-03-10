@@ -11,13 +11,9 @@ export const colors = {
   gray800: '#202024',
   gray900: '#121214',
 
-  pink300: '#F8C0C8',
-  pink500: '#FF5376',
-  pink700: '#F0386B',
-  pink900: '#6B2D5C',
-
-  pastel300: '#E5C1BD',
-  pastel500: '#D2D0BA',
-  pastel700: '#B6BE9C',
-  pastel900: '#7B9E87',
+  yellow: '#FFD23F', // 300
+  blue: '#3BCEAC', // 400
+  green: '#0EAD69', // 500
+  pink: '#EE4266', // 700
+  purple: '#540D6E', // 900
 }
