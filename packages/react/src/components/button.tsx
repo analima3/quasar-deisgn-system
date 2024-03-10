@@ -27,19 +27,19 @@ export const Button = styled('button', {
     variant: {
       primary: {
         color: '$white',
-        background: '$pink500',
+        background: '$green',
         '&:not(:disabled):hover': {
-          background: '$pink300',
+          background: '$yellow',
         },
         '&:disabled': {
           backgroundColor: '$gray200',
         },
       },
       secondary: {
-        color: '$pink300',
-        border: '2px solid $pink500',
+        color: '$yellow',
+        border: '2px solid $green',
         '&:not(:disabled):hover': {
-          background: '$pink500',
+          background: '$green',
           color: '$white',
         },
         '&:disabled': {
