@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/analima3.png',
     alt: 'User Ana Lima',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta
 
 export const Primary: StoryObj<AvatarImageProps> = {}
