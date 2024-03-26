@@ -8,7 +8,8 @@
     "build": "storybook build",
     "build-vite": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
     "@quasar-ui/eslint-config": "*",
@@ -27,6 +28,7 @@
     "@storybook/blocks": "^7.6.17",
     "@storybook/react": "^7.6.17",
     "@storybook/react-vite": "^7.6.17",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/test": "^7.6.17",
     "@types/react": "^18.2.56",
     "@types/react-dom": "^18.2.19",
